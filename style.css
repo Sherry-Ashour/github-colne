@@ -1,0 +1,370 @@
+ *{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  * {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+
+  
+  *{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  
+  * {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+.firstImg {
+    display: inline;
+    width: 440px;
+    height: 810px;
+    margin-left: 78.50%;
+    margin-top: 4%;
+}
+
+body {
+    color: white;
+    background-color: #0d1015;
+}
+
+.secoundimg {
+    margin-top: 0.90%;
+    margin-left: 0.80%;
+    width: 66.90px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.select {  
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 2%;
+    margin-left: 5%; 
+}
+
+.s1{ background: transparent;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 23px;
+}
+.s2{ background: transparent;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 23px;
+}
+.s3{ background: transparent;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 23px;
+}
+.btnForPricing{ background: transparent;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 23px;
+}
+.btnForPricing:hover{
+    cursor: pointer;
+}
+
+.kalam{
+    color: #0d1015;
+}
+.upper-right {
+    position: absolute;
+    top: 3.40%;
+    right: 23%;
+}
+.inputForsearch{ display: inline;
+    display: flex;
+     font-size: 23px;
+    width:156%;
+    height:45px;
+    background-color:#293042 ;
+    outline: none;
+    border-color: rgb(182, 181, 181);
+    border-radius: 6px;
+    color: white;
+
+
+} 
+.btnForslash{ 
+    position: absolute;
+    left: 144%;
+    bottom: 8px;
+    height: 28px;
+    width: 27px;
+    display: flex;
+    display: inline;
+    font-size: 22px;
+    background-color: #293042;
+    color: rgb(90, 90, 90);
+    outline: none;
+    border-color: rgb(153, 153, 153);
+    border-radius: 4px;
+
+}
+.sin-in-sin-up{
+    position: absolute;
+    top:3%;
+    right: 4%;
+   
+    }
+.btnforsinin{
+    font-size: 23px;
+    background: transparent;
+    color: white;
+    outline: none;
+    border: none;
+}
+.btnforsinup{ display: inline;
+    font-size: 23px;
+    background: transparent;
+    color: white;
+    outline: none;
+    border-radius: 8px;
+    border-color: white;
+    height: 50px;
+    width: 51%;
+
+}
+.btnforsinin:hover{
+    cursor: pointer;
+    color: #949494;
+}
+.btnforsinup:hover{
+    cursor: pointer;
+    color: #949494;
+}
+
+
+.vl1{
+    position:absolute;
+    left: ;
+    top: ;
+    border: none;
+    width: 1px; /* Adjust the width as needed */
+    height: 38vh; /* Adjust the height as needed */
+    box-shadow: 0 0 2px 2px rgb(110, 110, 196);
+   
+    background-color: #ccc; /* Optional: Add a background color */
+}
+
+.vl1::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 100%;
+    background-color: inherit;
+}
+.p1{ font-size: 160px;
+    position: absolute;
+    left: 10%;
+    bottom: 28%;
+}
+.p2{
+    font-size: 40px;
+    position: absolute;
+    left: 10%;
+    bottom: 35%;
+    color: #6f7480;
+}
+
+.buttons{display: inline;
+    display: flex;
+    position: absolute;
+    left: 10%;
+    bottom: 15.70%;
+    height: 70px;
+   
+    
+}
+.inputForlogin{ font-size: 25px;
+    width: 440px;
+    border-radius: 8px;
+}
+.btnForlogin{ font-size: 25px;
+    width: 280px;
+    height: 70.50px;
+    border-radius: 8px;
+    position: relative;
+    top:1%;
+   
+   background-color: #6f3fc7;
+   color: white;
+
+
+}
+.btnForlogin:hover{
+    cursor: pointer;
+    box-shadow:  0 0 5px 5px  rgb(223, 223, 223);
+}
+.inputforstart{
+    font-size: 25px;
+    position: absolute;
+    width:57%;
+    height: 70px;
+    left: 105%;
+   
+    top: ;
+    
+}
+.inputforstart{
+    border-radius: 8px;
+    border-color: #6f3fc7 ;
+    background: transparent
+    
+}
+.inputforstart{
+    color: white
+}
+.inputforstart:hover{
+    cursor: pointer;
+    border-color: white;
+}
+.vl1{
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    top: 39.80%;
+}
+
+
+i{ font-size: 23px;
+    position: absolute;
+    top: 37%;
+    left: 4.40%;
+}
+.brakets {
+    font-size: 35px;
+    position: absolute;
+    left: 4.20%;
+    top: 76%;
+    color: #5a5a5a;
+    
+}
+.vl2{
+    position:absolute;
+    left: 5% ;
+    top: 88.40%;
+    border: none;
+    width: 1px; /* Adjust the width as needed */
+    height: 28vh; /* Adjust the height as needed */
+    box-shadow: 0 0 2px 2px rgb(115, 115, 184) ;
+    
+   
+    background-color: #ccc; /* Optional: Add a background color */
+}
+
+.vl2::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 100%;
+    background-color: inherit;
+}
+.vl3{
+    position:absolute;
+    left: 5% ;
+    top: 116.40%;
+    border: none;
+    width: 1px; /* Adjust the width as needed */
+    height: 28vh; /* Adjust the height as needed */
+    box-shadow: 0 0 2px 2px #35ad4e  ;
+    
+   
+    background-color: #ccc; /* Optional: Add a background color */
+}
+
+.vl3::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 100%;
+    background-color: inherit;
+}
+.lp{
+   font-size: 30px;
+   color: #6f7480;
+   position: absolute;
+   left: 10.80% ;
+   top:  96.20%;
+}
+.images{ 
+    display: flex;
+    display: inline;
+    justify-content: space-between;
+}
+.m1{ 
+    position: absolute;
+    top: 110%;
+    left: 11%;
+    width: 95px;
+}
+.m2{
+    position: absolute;
+    top: 110.80%;
+    left: 22%;
+    width: 140px;
+    
+
+}
+.m3{
+    position: absolute;
+    top: 110%;
+    left: 33%;
+    width: 250px;
+}
+.m4{
+    position: absolute;
+    top: 110%;
+    left: 49%;
+    width: 95px;
+}
+.m5{
+    position: absolute;
+    top: 110%;
+    left: 59%;
+    width: 95px;
+}
+.m6{
+    position: absolute;
+    top: 110%;
+    left: 69%;
+    width: 250px;
+}
+
+
+
+
+
+
+
+
+
+
